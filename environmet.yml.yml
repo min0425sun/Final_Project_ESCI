@@ -1,0 +1,8 @@
+name: hydrodata
+dependencies:
+  - numpy=1.25.*
+  - matplotlib
+  - pandas=2.1.4
+
+
+
