@@ -19,13 +19,13 @@ The main objective is to examine how backscatter (VV/VH polarization) responds t
 
 
 ## Objectives
-Kingman Farm (Spatial Analysis)
-1.Map the spatial distribution of Sentinel-1 backscatter (VV/VH) across Kingman Farm.
-2.Compare early-winter, mid-winter, and melt-season backscatter patterns changes in temperature and precipitation.
-3. Explain winter differences in snowpack conditions.
+Kingman Farm (Spatial Analysis)  
+1.Map the spatial distribution of Sentinel-1 backscatter (VV/VH) across Kingman Farm.  
+2.Compare early-winter, mid-winter, and melt-season backscatter patterns changes in temperature and precipitation.  
+3.Explain winter differences in snowpack conditions.  
 
-Hubbard Brook (Validation)
-Use open in-situ snow depth measurements (2023–2025) to evaluate Sentinel-1 backscatter sensitivity.
+Hubbard Brook (Validation)  
+Use open in-situ snow depth measurements (2023–2025) to evaluate Sentinel-1 backscatter sensitivity.  
 
-1.Assess whether Sentinel-1 backscatter responds to changes in underlying snowpack depth or structure.
-2. Time-series scatterplots, correlations.
+1.Assess whether Sentinel-1 backscatter responds to changes in underlying snowpack depth or structure.  
+2.Time-series scatterplots, correlations.  
