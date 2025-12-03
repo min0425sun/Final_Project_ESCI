@@ -1,0 +1,13 @@
+name: snowenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - rasterio
+  - pyproj
+  - pip
+  - pip:
+      - jupyterlab
